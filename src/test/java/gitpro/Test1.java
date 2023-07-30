@@ -7,6 +7,6 @@ public class Test1 {
  	public void m1()
 	{
 	 System.out.println("My 1st testng prg.");
-	 System.out.println("  1st update by nuts");
+	 System.out.println(" 1st update by nuts");
 	}
 }
